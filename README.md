@@ -158,10 +158,10 @@ If you find this work useful, please cite:
 
 ```bibtex
 @misc{riser2026,
-  author = {RISER Contributors},
+  author = {Wang, Jason},
   title = {RISER: The Adaptive Cognitive Auditor},
   year = {2026},
-  howpublished = {\url{https://github.com/your-repo/riser}},
+  howpublished = {\url{https://github.com/Jason-Wang313/RISER}},
 }
 ```
 
