@@ -160,10 +160,8 @@ If you find this work useful, please cite:
   author = {Wang, Jason},
   title = {RISER: The Adaptive Cognitive Auditor},
   year = {2026},
-  howpublished = {\url{[https://github.com/Jason-Wang313/RISER](https://github.com/Jason-Wang313/RISER)}},
+  howpublished = {\\url{https://github.com/Jason-Wang313/RISER}},
 }
-
----
 
 ## License
 
