@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+
+# Model Weights (Exclude heavy downloads)
+*.bin
+*.safetensors
+*.pt
+*.pth
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Note: We are explicitly KEEPING *.npy files (our steering vectors)
