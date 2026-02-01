@@ -155,7 +155,7 @@ python demo_riser.py
 ## Citation
 If you find this work useful, please cite:
 
-```bibtex
+```
 @misc{riser2026,
   author = {Wang, Jason},
   title = {RISER: The Adaptive Cognitive Auditor},
