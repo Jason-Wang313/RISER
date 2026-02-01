@@ -152,17 +152,10 @@ python demo_riser.py
 
 ---
 
-## Citation
-If you find this work useful, please cite:
+## Credits
+RISER was developed by Jason Wang (2026).
 
-```
-@misc{riser2026,
-  author = {Wang, Jason},
-  title = {RISER: The Adaptive Cognitive Auditor},
-  year = {2026},
-  howpublished = {\url{[https://github.com/Jason-Wang313/RISER](https://github.com/Jason-Wang313/RISER)}},
-}
-```
+Code repository: https://github.com/Jason-Wang313/RISER
 
 ---
 
