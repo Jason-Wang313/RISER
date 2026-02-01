@@ -157,8 +157,6 @@ RISER was developed by Jason Wang (2026).
 
 Code repository: https://github.com/Jason-Wang313/RISER
 
----
-
 ## License
 
 MIT License. See `LICENSE` for details.
